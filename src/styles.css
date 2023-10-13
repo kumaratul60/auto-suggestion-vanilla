@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+}
+main {
+  width: 500px;
+  margin: 10px auto 0 auto; /* center align */
+}
+
+#search {
+  padding: 10px;
+  width: 100%;
+  /* border-radius: 0.2rem; */
+}
+
+#suggestion-area {
+  border: 1px solid coral;
+  margin-top: 5px;
+  min-height: 100px;
+  padding: 5px;
+  display: none;
+}
